@@ -4,6 +4,7 @@ body {
 }
 .mega {
    width: 650px !important;
+   overflow: hidden;
 }
 
 
